@@ -1,0 +1,11 @@
+API_KEY_DATABASES = mongodb+srv://fiver2926:XvmfEFHB12avzeME@fiver.onrmtat.mongodb.net/?retryWrites=true&w=majority&appName=Fiver
+Cloud_Name=dtwoyyree
+Api_Key=661774556516732
+Api_Secret=--5Sqw6RF9UtJYNUCfQMTaa91W0
+STRIPE_kEY=sk_test_51NnIorCqPnESIcUCAKPbfJP4eHpeS67HSgBbGIcpkzo0tHTuMga2FNWrQUSDZnihJeYfLXY0eIKq8QjUkg1GZlU700xrXYlx2R
+PORT=8000
+UserSecretKey = UserSecretKey@112926119@@
+OwnerSecretKey= OwnerSecretKey@112926119@@
+AdminSecretKey= AdminSecretKey@112926119@@
+AdminEmail=waqar@gmail.com
+AdminPassword=7890
